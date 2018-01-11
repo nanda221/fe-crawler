@@ -1,4 +1,4 @@
-from ..utils import scrape
+from ..utils import html_scrapy as scrape
 
 if None:
     print(1)
